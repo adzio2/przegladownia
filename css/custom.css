@@ -1,0 +1,9 @@
+/*! Place your custom styles here */
+.extra-space {
+            padding-bottom: 2em;
+            padding-top: 2em;
+        }
+
+        .bg--dark label, .imagebg:not(.image--light) label {
+            color: #252525 !important;
+        }
